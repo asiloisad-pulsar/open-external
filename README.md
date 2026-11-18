@@ -2,6 +2,9 @@
 
 Open files and directories in external programs. Useful for files that cannot be viewed in Pulsar or require specialized applications.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [open-external](https://github.com/lumine-code/open-external).
+
 ## Features
 
 - **External open**: Launch files with system default programs.
